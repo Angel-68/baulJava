@@ -1,3 +1,4 @@
+import otrasClases.Animal;
 import otrasClases.Persona;
 
 // En Java un programa es un conjunto de definiciones de clases que están dispuestas en uno o más archivos.
@@ -35,6 +36,14 @@ public class HolaMundo {
 		 System.out.println("Estas son las personas instanciadas:");
 		 System.out.println(p1.toString());
 		 System.out.println(p2.toString());
+		 
+		 Animal a1=new Animal("Mamifero");
+		 Animal a2=new Animal("Reptil");
+		 
+		 System.out.println("Estas son los animales instanciados:");
+		 System.out.println(a1.toString());
+		 System.out.println(a2.toString());
+		 
 		 
 		 
 
