@@ -32,9 +32,9 @@ public class HolaMundo {
 		 Persona p1=new Persona ("alba");
 		 Persona p2=new Persona ("Maria");
 		 
-		 System.out.println("Estas son las prsonas instanciadas:");
-		 System.out.println(p1.getNombre());
-		 System.out.println(p2.getNombre());
+		 System.out.println("Estas son las personas instanciadas:");
+		 System.out.println(p1.toString());
+		 System.out.println(p2.toString());
 		 
 		 
 

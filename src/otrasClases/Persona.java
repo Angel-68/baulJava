@@ -14,6 +14,10 @@ public class Persona {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
-	}	
+	}
+	
+	public String toString() {
+		return "mi nombre es "+nombre;
+	}
 
 }
