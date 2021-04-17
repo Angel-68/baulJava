@@ -3,6 +3,7 @@ package otrasClases;
 public class Animal {
 	
 	private String especie;
+	private String nombre;
 
 	public Animal(String especie) {
 		super();
@@ -15,6 +16,16 @@ public class Animal {
 
 	public void setEspecie(String especie) {
 		this.especie = especie;
+	}
+	
+	
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
 	}
 
 	@Override
