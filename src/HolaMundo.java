@@ -48,6 +48,7 @@ public class HolaMundo {
 		System.out.println("Instruccion agregada desde github");
 		System.out.println("Para probar como sincronizar los cambios desde local");
 		System.out.println("A nuestro proyecto local traeremos los cambios realizados en github");
+		System.out.println("Pos eso");
 		 
 		 
 		 
