@@ -44,6 +44,10 @@ public class HolaMundo {
 		 System.out.println("Estas son los animales instanciados:");
 		 System.out.println(a1.toString());
 		 System.out.println(a2.toString());
+		
+		System.out.println("Instruccion agregada desde github");
+		System.out.println("Para probar como sincronizar los cambios desde local");
+		System.out.println("A nuestro proyecto local traeremos los cambios realizados en github");
 		 
 		 
 		 
